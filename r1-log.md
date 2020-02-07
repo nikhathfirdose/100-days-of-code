@@ -1,10 +1,9 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Nikhath Firdose]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [February 7, Friday, 2020].
 
 ## Log
-
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
-
-### R1D2
+**Day1** : February 7, Friday
+**Today's Progress** : -Learnt list comprehensions in python and wrote a program -CSS on freecodecamp
+**Toughts** : today is the first day of my 100 day coding challenge. i will make the most of it and become a good developer
+**Link to work** :
