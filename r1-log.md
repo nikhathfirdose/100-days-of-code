@@ -14,8 +14,6 @@ list comprehensions(https://www.hackerrank.com/challenges/list-comprehensions/pr
 
 **Day 2** : Feruary 8, 2020
 R1D2 : 1. Python coding on topics like lists, tuples and RegEx
-
-       2. Socisl App basic page done using ReactJS
-       
+       2. Social App in progress
        3. API understanding on FreeCodeCamp
        
