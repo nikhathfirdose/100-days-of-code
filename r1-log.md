@@ -2,7 +2,6 @@
 
 The log of my #100DaysOfCode challenge. Started on [February 7, Friday, 2020].
 
-## Log
 **Day1** : February 7, Friday
 
 **Today's Progress** : -Learnt list comprehensions in python and wrote a program  -CSS on freecodecamp  -Formating decimal points in python and wrote a program for same
@@ -11,3 +10,7 @@ The log of my #100DaysOfCode challenge. Started on [February 7, Friday, 2020].
 
 **Link to work** : dictionary practice with formating decimal points (https://www.hackerrank.com/challenges/finding-the-percentage/problem)
 list comprehensions(https://www.hackerrank.com/challenges/list-comprehensions/problem)
+
+
+**Day 2** : Feruary 8, 2020
+R1D2 : Python coding on topics like lists, tuples and RegEx and Socisl App basic page done using ReactJS
