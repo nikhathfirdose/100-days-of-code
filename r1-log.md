@@ -1,6 +1,6 @@
 # #100DaysOfCode Log - Round 1 - [Nikhath Firdose]
 
-The log of my #100DaysOfCode challenge. Started on [February 7, Friday, 2020].
+The log of my #100DaysOfCode challenge. Started on [February 7, Friday, 2020]. **Detailed update in Log folder**
 
 **Day1** : February 7, Friday
 
