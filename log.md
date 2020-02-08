@@ -11,10 +11,10 @@ list comprehensions(https://www.hackerrank.com/challenges/list-comprehensions/pr
 
 ### Day 2: February 8, 2020
 
-**Today's Learning** : - Python RegEx operations -map functions -hashing in tuples 
+**Today's Learning** : - Python RegEx operations -map functions -hashing in tuples -API understanding on freecode camp -Social App in progress 
 
 **Toughts**: Python gets interesting with each day. I'm learning new topics and getting better at problem solving, also i gained my 4th star on hacker rank today! 
 Web app on ReactJs has begun. Hopefully will build an entire functioning app in a week.
 
-**Link to work**: (Just earned my 4th star on the Python Badge on HackerRank! http://hr.gs/1k4hkyu)
+**Link to work**: (Python Badge on HackerRank! http://hr.gs/1k4hkyu)
 
