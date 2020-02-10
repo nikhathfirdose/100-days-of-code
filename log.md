@@ -21,5 +21,6 @@ Web app on ReactJs has begun. Hopefully will build an entire functioning app in 
 ### Day 3: February  10, 2020
 
 **Today's Learning** : -Responsive web design on FreeCodeCamp -Python on HackerRank -Social App in progress
+
 **link** : Python () FCC()
 
